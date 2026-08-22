@@ -1,4 +1,5 @@
-class Complex:
+class Complex: 
+#BE SELFISH FOR YOUR SELF !! 
     def __init__(self, real, img):
         self.real = real
         self.img = img
